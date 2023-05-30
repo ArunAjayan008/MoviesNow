@@ -11,7 +11,10 @@
     <color name="alpha">#1BFFFFFF</color>
     <color name="blue">#FF06B0FB</color>
     <color name="light_purple">#BA07FA</color>
+    <color name="logo_purple">#BB00BE</color>
     <color name="yellow">#FCB006</color>
     <color name="font_purple">#8C6CE3</color>
     <color name="grey">#9E9E9E</color>
+    <color name="transparent">#40000000</color>
+    <color name="dark_grey">#3C3C3C</color>
 </resources>

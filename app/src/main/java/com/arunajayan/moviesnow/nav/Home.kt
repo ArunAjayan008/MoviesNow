@@ -74,7 +74,6 @@ fun HeaderSection() {
             modifier = Modifier
                 .fillMaxWidth()
                 .height(350.dp)
-                // Workaround to enable alpha compositing
                 .graphicsLayer { alpha = 0.99f }
                 .drawWithContent {
                     val colors = listOf(

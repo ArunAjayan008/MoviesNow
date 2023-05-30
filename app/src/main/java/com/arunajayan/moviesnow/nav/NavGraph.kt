@@ -10,7 +10,7 @@ import com.arunajayan.moviesnow.Screen
 fun SetupNavGraph(
     navHostController: NavHostController
 ){
-    NavHost(navController = navHostController, startDestination =Screen.Home.route ){
+    NavHost(navController = navHostController, startDestination =Screen.Login.route ){
         composable(
             route = Screen.Home.route
         ){
